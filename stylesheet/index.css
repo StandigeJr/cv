@@ -1,0 +1,11 @@
+html {
+    font-family: 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+} /* PURPLE 3F0071 // DARK 444444 //  DARK DARK 171717 */
+
+#header {
+    background: #CA3E47;
+}
+body {
+    background-color: #525252;
+}

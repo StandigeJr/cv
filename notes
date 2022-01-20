@@ -1,0 +1,11 @@
+<h1></h1> - <h6></h6> // smaller No# =  bigger text ... bigger No# = smaller text
+
+<br> - Line break - breaks the line in half
+
+CTRL + K + C = comment line
+
+<hr> - breaks a line
+
+<center></center> centers text
+
+when using a <img> tag in order ot change both height and width only do height t resize it perfectly
